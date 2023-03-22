@@ -1,7 +1,7 @@
-import { TScreens } from '@app/navigation'
+import { TScreensList } from '@/navigation'
 
 declare global {
   namespace ReactNavigation {
-    interface RootParamList extends TScreens {}
+    interface RootParamList extends TScreensList {}
   }
 }

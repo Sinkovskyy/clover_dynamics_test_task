@@ -4,14 +4,16 @@
  *
  * @format
  */
-
-import { MainScreens } from '@/screens/Main'
 import React from 'react'
+import { Navigator } from '@/navigation'
+import { ContextProvider } from '@/common/contexts'
 
 const App = () => {
   return (
     <>
-      <MainScreens.First />
+      <ContextProvider>
+        <Navigator />
+      </ContextProvider>
     </>
   )
 }

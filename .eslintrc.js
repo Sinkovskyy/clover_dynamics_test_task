@@ -28,10 +28,10 @@ module.exports = {
         singleReturnOnly: false,
       },
     ],
-    'prettier/prettier': ['error', {endOfLine: 'auto'}],
+    'prettier/prettier': ['error', { endOfLine: 'auto' }],
     'react-native/no-inline-styles': 'error',
     'react/self-closing-comp': 'error',
 
     'react-hooks/exhaustive-deps': 'warn',
   },
-};
+}
