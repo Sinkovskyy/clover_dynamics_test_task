@@ -1,10 +1,10 @@
+import { Buttons } from '@/modules'
 import React from 'react'
-import { Text } from 'react-native'
 
 export const First = () => {
   return (
     <>
-      <Text>first screen</Text>
+      <Buttons />
     </>
   )
 }

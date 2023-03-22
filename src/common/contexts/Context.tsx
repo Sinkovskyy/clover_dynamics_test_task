@@ -1,4 +1,6 @@
+import { store } from '@/store'
 import React, { ReactNode } from 'react'
+import { Provider } from 'react-redux'
 import { SafeAreaViewProvider } from './SafeAreaView'
 
 type TContextProvider = {
@@ -8,7 +10,9 @@ type TContextProvider = {
 export const ContextProvider = ({ children }: TContextProvider) => {
   return (
     <>
-      <SafeAreaViewProvider>{children}</SafeAreaViewProvider>
+      <Provider store={store}>
+        <SafeAreaViewProvider>{children}</SafeAreaViewProvider>
+      </Provider>
     </>
   )
 }
