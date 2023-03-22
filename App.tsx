@@ -5,10 +5,15 @@
  * @format
  */
 
+import { MainScreens } from '@/screens/Main'
 import React from 'react'
 
 const App = () => {
-  return <></>
+  return (
+    <>
+      <MainScreens.First />
+    </>
+  )
 }
 
 export default App

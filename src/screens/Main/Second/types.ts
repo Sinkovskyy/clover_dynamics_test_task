@@ -1,0 +1,1 @@
+export type MainSecondNavigationProps = undefined
