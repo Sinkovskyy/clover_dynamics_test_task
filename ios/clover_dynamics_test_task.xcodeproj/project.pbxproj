@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* clover_dynamics_test_taskTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* clover_dynamics_test_taskTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-clover_dynamics_test_task.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-clover_dynamics_test_task.a */; };
+		117A614796046312139376AD /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 847D7521508473774A9C1DF1 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */; };
+		705E4ADE89ED7A227DA298AB /* libPods-clover_dynamics_test_task.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 91383AB4A58CB37459B6DE0B /* libPods-clover_dynamics_test_task.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -36,13 +36,13 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = clover_dynamics_test_task/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = clover_dynamics_test_task/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = clover_dynamics_test_task/main.m; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B4392A12AC88292D35C810B /* Pods-clover_dynamics_test_task.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task.debug.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-clover_dynamics_test_task.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task.release.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-clover_dynamics_test_task.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clover_dynamics_test_task.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E1F222CB2C2F499F29955AD /* Pods-clover_dynamics_test_task.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task.release.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task.release.xcconfig"; sourceTree = "<group>"; };
+		55085E870A606F4B84C4176A /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = clover_dynamics_test_task/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig"; sourceTree = "<group>"; };
+		847D7521508473774A9C1DF1 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		91383AB4A58CB37459B6DE0B /* libPods-clover_dynamics_test_task.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clover_dynamics_test_task.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3615F5B46A893022703A74D /* Pods-clover_dynamics_test_task.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task.debug.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task.debug.xcconfig"; sourceTree = "<group>"; };
+		D0FF091DA59D15608078820E /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig"; path = "Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a in Frameworks */,
+				117A614796046312139376AD /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-clover_dynamics_test_task.a in Frameworks */,
+				705E4ADE89ED7A227DA298AB /* libPods-clover_dynamics_test_task.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-clover_dynamics_test_task.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */,
+				91383AB4A58CB37459B6DE0B /* libPods-clover_dynamics_test_task.a */,
+				847D7521508473774A9C1DF1 /* libPods-clover_dynamics_test_task-clover_dynamics_test_taskTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -140,10 +140,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-clover_dynamics_test_task.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-clover_dynamics_test_task.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */,
+				A3615F5B46A893022703A74D /* Pods-clover_dynamics_test_task.debug.xcconfig */,
+				4E1F222CB2C2F499F29955AD /* Pods-clover_dynamics_test_task.release.xcconfig */,
+				D0FF091DA59D15608078820E /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */,
+				55085E870A606F4B84C4176A /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -155,12 +155,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "clover_dynamics_test_taskTests" */;
 			buildPhases = (
-				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				BD9B6C31BA30AF100235174B /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
-				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+				BA7886B5A1998B249791D715 /* [CP] Embed Pods Frameworks */,
+				D4AE5381D1E8F1CB70000FDD /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -176,14 +176,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "clover_dynamics_test_task" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				E18E15AE657652A368BA6E95 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				A45350787A5A066D8C2E118E /* [CP] Embed Pods Frameworks */,
+				BA37FB088EE6E53AD9891F4F /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -266,7 +266,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		A45350787A5A066D8C2E118E /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -283,7 +283,41 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
+		BA37FB088EE6E53AD9891F4F /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BA7886B5A1998B249791D715 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BD9B6C31BA30AF100235174B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -305,7 +339,24 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		D4AE5381D1E8F1CB70000FDD /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E18E15AE657652A368BA6E95 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -325,57 +376,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task/Pods-clover_dynamics_test_task-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests/Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -430,7 +430,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */;
+			baseConfigurationReference = D0FF091DA59D15608078820E /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -457,7 +457,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */;
+			baseConfigurationReference = 55085E870A606F4B84C4176A /* Pods-clover_dynamics_test_task-clover_dynamics_test_taskTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -481,7 +481,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-clover_dynamics_test_task.debug.xcconfig */;
+			baseConfigurationReference = A3615F5B46A893022703A74D /* Pods-clover_dynamics_test_task.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -508,7 +508,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-clover_dynamics_test_task.release.xcconfig */;
+			baseConfigurationReference = 4E1F222CB2C2F499F29955AD /* Pods-clover_dynamics_test_task.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;

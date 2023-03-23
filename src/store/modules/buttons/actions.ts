@@ -1,5 +1,5 @@
 import { sliceActions } from './reducer'
 
-export const walletActions = {
+export const buttonActions = {
   ...sliceActions,
 }
